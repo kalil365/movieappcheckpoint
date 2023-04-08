@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color:  #141414 ;
+}
+
+.listmovies {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: auto;
+  padding: 20px;
+}
